@@ -1,0 +1,16 @@
+SUPERSTORE SQL PROJECT FINDINGS
+
+1. West region generated the highest sales (713K) and profit (106K), making it the best-performing region.
+
+2. Technology category delivered the highest profit, while Furniture showed lower profitability.
+
+3. Tables and Bookcases resulted in losses despite strong sales, indicating pricing or discount issues.
+
+4. November and December recorded highest sales, showing strong seasonal demand.
+
+5. Sean Miller was the highest-value customer with purchases above 25K.
+
+6. Average shipping time was approximately 4 days.
+
+7. Sales grew significantly in 2017, with YoY growth reaching 36.67%.
+
