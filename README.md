@@ -1,4 +1,15 @@
-# Superstore Sales & Profitability Analysis (SQL Project)
+# 📊 Superstore Sales & Profitability Analysis (SQL Project)
+
+SQL-based retail sales analysis project using the Superstore dataset to analyze revenue, profit, customer behavior, product performance, and business growth trends.
+
+## Key Business Insights
+✅ Highest sales region identified  
+✅ Most profitable category identified  
+✅ Loss-making products detected  
+✅ Customer purchase analysis  
+✅ Shipping performance analysis  
+✅ Year-over-Year (YoY) sales growth analysis  
+✅ Running total & ranking using window functions# Superstore Sales & Profitability Analysis (SQL Project)
 
 ## Project Overview
 
