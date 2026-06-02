@@ -128,3 +128,21 @@ superstore_queries.sql
 project_findings.txt
 
 dataset_link.txt
+
+## Project Screenshots
+
+### Sales by Region
+
+![Sales by Region](region_sales.png)
+
+### Profit by Category
+
+![Profit by Category](category_profit.png)
+
+### Loss-Making Products
+
+![Loss Products](LOSS_PRODUCTS.png)
+
+### Year-over-Year Growth
+
+![YoY Growth](yoy_growth.png)
