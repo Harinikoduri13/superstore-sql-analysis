@@ -146,3 +146,20 @@ dataset_link.txt
 ### Year-over-Year Growth
 
 ![YoY Growth](yoy_growth.png)
+
+
+## Power BI Dashboard
+
+Power BI dashboard file included:
+
+- Superstore_PowerBI_Dashboard.pbix
+
+Dashboard contains:
+- Executive Overview
+- Product & Customer Analysis
+- Business Insights
+- KPI Cards
+- Regional Analysis
+- Customer Analysis
+- Product Analysis
+- Sales Trends
