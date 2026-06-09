@@ -1,6 +1,12 @@
-# 📊 Superstore Sales & Profitability Analysis (SQL Project)
+# 📊 Superstore Sales & Profitability Analysis 
 
-SQL-based retail sales analysis project using the Superstore dataset to analyze revenue, profit, customer behavior, product performance, and business growth trends.
+🚀 Built SQL queries to analyze 9,600+ retail sales records.
+
+📊 Designed a 3-page interactive Power BI dashboard.
+
+📈 Performed customer, product, profitability, and YoY growth analysis.
+
+🛠 Tools: MySQL Workbench, Power BI.
 
 ## Key Business Insights
 ✅ Highest sales region identified  
