@@ -163,3 +163,20 @@ Dashboard contains:
 - Customer Analysis
 - Product Analysis
 - Sales Trends
+
+ 
+ ### Executive Overview
+
+![Executive Overview](images/ExecutiveOverview.png)
+ 
+### Product & Customer Analysis
+
+![Product & Customer Analysis](images/product_customer_analysis.png)
+
+### Business Insights
+
+![Business Insights](images/business_insights.png)
+
+### Dashboard File
+
+Power BI dashboard (.pbix) file is included in this repository.
