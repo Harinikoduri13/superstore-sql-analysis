@@ -9,7 +9,9 @@ SQL-based retail sales analysis project using the Superstore dataset to analyze 
 ✅ Customer purchase analysis  
 ✅ Shipping performance analysis  
 ✅ Year-over-Year (YoY) sales growth analysis  
-✅ Running total & ranking using window functions# Superstore Sales & Profitability Analysis (SQL Project)
+✅ Running total & ranking using window functions
+
+# Superstore Sales & Profitability Analysis (SQL Project)
 
 ## Project Overview
 
