@@ -167,7 +167,7 @@ Dashboard contains:
  
  ### Executive Overview
 
-![Executive Overview](images/Executive Overview.png)
+![Executive Overview](images/Executive_Overview.png)
  
 ### Product & Customer Analysis
 
